@@ -115,7 +115,8 @@ void ArrayList<T>::merge(const List<T> &ot) {
 
 template<class T>
 void ArrayList<T>::reverse_iterative() {
-    /*
-     * TODO: homework
-     */
+    for(int i = 0, j = num_of_element - 1; i < j; i++, j--)
+    {
+        swap(i, j);
+    }
 }

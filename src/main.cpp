@@ -34,9 +34,18 @@ void problem_1_book_fiction() {
 }
 
 void problem_2() {
+    //int list2 = {15, 30, 120};
     LinkedList<int> list;
     list.push_back(99);
-    printf("%d\n", list[0]);
+    list.push_front(45);
+    list.push_back(100);
+    list.push_front(44);
+    printf("%d\n", list.size());
+    int val = 60;
+    list.remove(val);
+    printf("%d\n", list.size());
+
+    printf("%d\n", list[3]);
 }
 
 void problem_1_static_vs_singleton() {

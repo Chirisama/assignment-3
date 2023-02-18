@@ -1,0 +1,73 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"lib/ext_dependencies/googletest/googletest-src/googlemock/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 106,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 108,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"C:/Users/11922/Documents/GitHub/assignment-3/lib/libgmock.a"
+			],
+			"targetId" : "gmock::@984077a788224f662bce",
+			"targetIndex" : 31,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"C:/Users/11922/Documents/GitHub/assignment-3/lib/libgmock_main.a"
+			],
+			"targetId" : "gmock_main::@984077a788224f662bce",
+			"targetIndex" : 32,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"lib/ext_dependencies/googletest/googletest-src/googlemock/include/gmock"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-build/googlemock",
+		"source" : "lib/ext_dependencies/googletest/googletest-src/googlemock"
+	}
+}

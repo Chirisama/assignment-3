@@ -1,0 +1,73 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"lib/ext_dependencies/googletest/googletest-src/googletest/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 105,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 107,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"C:/Users/11922/Documents/GitHub/assignment-3/lib/libgtest.a"
+			],
+			"targetId" : "gtest::@148a0330046cf1681ed7",
+			"targetIndex" : 33,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"C:/Users/11922/Documents/GitHub/assignment-3/lib/libgtest_main.a"
+			],
+			"targetId" : "gtest_main::@148a0330046cf1681ed7",
+			"targetIndex" : 34,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"lib/ext_dependencies/googletest/googletest-src/googletest/include/gtest"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-build/googlemock/gtest",
+		"source" : "lib/ext_dependencies/googletest/googletest-src/googletest"
+	}
+}

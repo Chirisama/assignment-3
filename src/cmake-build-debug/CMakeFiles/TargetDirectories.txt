@@ -1,0 +1,4 @@
+C:/Users/11922/Documents/GitHub/assignment-3/src/cmake-build-debug/CMakeFiles/Project.dir
+C:/Users/11922/Documents/GitHub/assignment-3/src/cmake-build-debug/CMakeFiles/homework_functions.dir
+C:/Users/11922/Documents/GitHub/assignment-3/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/11922/Documents/GitHub/assignment-3/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/CMakeFiles/googletest"
+		},
+		{
+			"file" : "C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/CMakeFiles/googletest.rule"
+		},
+		{
+			"file" : "C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/CMakeFiles/googletest-complete.rule"
+		},
+		{
+			"file" : "C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-build.rule"
+		},
+		{
+			"file" : "C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-configure.rule"
+		},
+		{
+			"file" : "C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-download.rule"
+		},
+		{
+			"file" : "C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-install.rule"
+		},
+		{
+			"file" : "C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-patch.rule"
+		},
+		{
+			"file" : "C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-test.rule"
+		},
+		{
+			"file" : "C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest"
+		],
+		"name" : "googletest"
+	}
+}

@@ -11,22 +11,26 @@ public:
     }
 
     virtual int calculate_late_fees(int num_of_days_past_due) {
-        if (num_of_days_past_due <= 0 || mercy_rule_apply()) {
-            return 0;
+        if (mercy_rule_apply()) {
+            num_of_days_past_due = 0;
         }
         return late_fee_per_day_in_dollar * num_of_days_past_due;
     }
 
     virtual bool mercy_rule_apply() {
-        /*
-         * TODO: homework
-         */
+        if(get_inventory_id() % 13 == 0)
+        {
+            return true;
+        }
+
+        return false;
     }
 
     bool operator==(const StoreMediaInterface &other_media) const {
-        /*
-         * TODO: homework
-         */
+        if(inventory_id == other_media.get_inventory_id())
+        {
+            return true;
+        }
         return false;
     };
 

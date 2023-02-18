@@ -1,0 +1,115 @@
+Start testing: Feb 17 16:39 Pacific Standard Time
+----------------------------------------------------------
+1/2 Testing: main
+1/2 Test: main
+Command: "C:/Users/11922/Documents/GitHub/assignment-3/bin/css342_homework.exe"
+Directory: C:/Users/11922/Documents/GitHub/assignment-3/cmake-build-debug/src
+"main" start time: Feb 17 16:39 Pacific Standard Time
+Output:
+----------------------------------------------------------
+1 2
+inventory id = 0
+inventory id = 1
+inventory id = 2
+inventory id = 3
+inventory id = 4
+book fiction (5) late fee is 2
+book fiction (6) late fee is 4
+4
+4
+100
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"main" end time: Feb 17 16:39 Pacific Standard Time
+"main" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: unit_test
+2/2 Test: unit_test
+Command: "C:/Users/11922/Documents/GitHub/assignment-3/bin/css342_homework_unit_test.exe"
+Directory: C:/Users/11922/Documents/GitHub/assignment-3/cmake-build-debug/test
+"unit_test" start time: Feb 17 16:39 Pacific Standard Time
+Output:
+----------------------------------------------------------
+[==========] Running 30 tests from 2 test cases.
+[----------] Global test environment set-up.
+[----------] 24 tests from problem_2
+[ RUN      ] problem_2.new_linked_list
+[       OK ] problem_2.new_linked_list (0 ms)
+[ RUN      ] problem_2.linkedlist_copy_constructor
+[       OK ] problem_2.linkedlist_copy_constructor (0 ms)
+[ RUN      ] problem_2.linkedlist_push_back
+[       OK ] problem_2.linkedlist_push_back (0 ms)
+[ RUN      ] problem_2.linkedlist_push_front
+[       OK ] problem_2.linkedlist_push_front (0 ms)
+[ RUN      ] problem_2.linkedlist_pop_back
+[       OK ] problem_2.linkedlist_pop_back (0 ms)
+[ RUN      ] problem_2.linkedlist_pop_front
+[       OK ] problem_2.linkedlist_pop_front (0 ms)
+[ RUN      ] problem_2.linkedlist_merge
+[       OK ] problem_2.linkedlist_merge (0 ms)
+[ RUN      ] problem_2.linkedlist_remove
+[       OK ] problem_2.linkedlist_remove (0 ms)
+[ RUN      ] problem_2.linkedlist_equal
+[       OK ] problem_2.linkedlist_equal (0 ms)
+[ RUN      ] problem_2.linked_list_subscriptor
+[       OK ] problem_2.linked_list_subscriptor (0 ms)
+[ RUN      ] problem_2.linked_list_reverse
+[       OK ] problem_2.linked_list_reverse (0 ms)
+[ RUN      ] problem_2.new_array_list_with_capacity
+[       OK ] problem_2.new_array_list_with_capacity (0 ms)
+[ RUN      ] problem_2.arraylist_copy_constructor
+[       OK ] problem_2.arraylist_copy_constructor (0 ms)
+[ RUN      ] problem_2.arraylist_push_back
+[       OK ] problem_2.arraylist_push_back (0 ms)
+[ RUN      ] problem_2.arraylist_push_front
+[       OK ] problem_2.arraylist_push_front (0 ms)
+[ RUN      ] problem_2.arraylist_pop_back
+[       OK ] problem_2.arraylist_pop_back (0 ms)
+[ RUN      ] problem_2.arraylist_pop_front
+[       OK ] problem_2.arraylist_pop_front (0 ms)
+[ RUN      ] problem_2.arraylist_merge
+[       OK ] problem_2.arraylist_merge (0 ms)
+[ RUN      ] problem_2.arraylist_remove
+[       OK ] problem_2.arraylist_remove (0 ms)
+[ RUN      ] problem_2.arraylist_equal
+[       OK ] problem_2.arraylist_equal (0 ms)
+[ RUN      ] problem_2.push_back_arraylist_over_limit
+[       OK ] problem_2.push_back_arraylist_over_limit (0 ms)
+[ RUN      ] problem_2.push_front_arraylist_over_limit
+[       OK ] problem_2.push_front_arraylist_over_limit (0 ms)
+[ RUN      ] problem_2.array_list_subscriptor
+[       OK ] problem_2.array_list_subscriptor (0 ms)
+[ RUN      ] problem_2.array_list_reverse
+[       OK ] problem_2.array_list_reverse (0 ms)
+[----------] 24 tests from problem_2 (0 ms total)
+
+[----------] 6 tests from problem_1
+[ RUN      ] problem_1.singleton_inventory_manager
+[       OK ] problem_1.singleton_inventory_manager (0 ms)
+[ RUN      ] problem_1.unique_id
+[       OK ] problem_1.unique_id (0 ms)
+[ RUN      ] problem_1.calculate_late_fees_base_rule
+[       OK ] problem_1.calculate_late_fees_base_rule (1 ms)
+[ RUN      ] problem_1.calculate_late_fees_movie_action
+[       OK ] problem_1.calculate_late_fees_movie_action (0 ms)
+[ RUN      ] problem_1.calculate_late_fees_movie_comedy
+[       OK ] problem_1.calculate_late_fees_movie_comedy (0 ms)
+[ RUN      ] problem_1.media_equal
+[       OK ] problem_1.media_equal (0 ms)
+[----------] 6 tests from problem_1 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 30 tests from 2 test cases ran. (1 ms total)
+[  PASSED  ] 30 tests.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_test" end time: Feb 17 16:39 Pacific Standard Time
+"unit_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 17 16:39 Pacific Standard Time

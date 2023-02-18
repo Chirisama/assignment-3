@@ -1,0 +1,40 @@
+"C:\Program Files\JetBrains\CLion 2022.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.3.1/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\11922\Documents\GitHub\assignment-3 -B C:\Users\11922\Documents\GitHub\assignment-3\cmake-build-debug
+-- Disabling pthread in Google Test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest
+[1/7] Performing update step for 'googletest'
+[2/7] No patch step for 'googletest'
+[3/7] No configure step for 'googletest'
+[4/7] No build step for 'googletest'
+[5/7] No install step for 'googletest'
+[6/7] No test step for 'googletest'
+[7/7] Completed 'googletest'
+CMake Deprecation Warning at lib/ext_dependencies/googletest/googletest-src/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at lib/ext_dependencies/googletest/googletest-src/googlemock/CMakeLists.txt:41 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at lib/ext_dependencies/googletest/googletest-src/googletest/CMakeLists.txt:48 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Could NOT find PythonInterp (missing: PYTHON_EXECUTABLE) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/11922/Documents/GitHub/assignment-3/cmake-build-debug

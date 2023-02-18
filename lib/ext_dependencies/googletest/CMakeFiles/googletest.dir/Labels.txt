@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/CMakeFiles/googletest
+C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/CMakeFiles/googletest.rule
+C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/CMakeFiles/googletest-complete.rule
+C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-build.rule
+C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-download.rule
+C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-install.rule
+C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-test.rule
+C:/Users/11922/Documents/GitHub/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-update.rule
